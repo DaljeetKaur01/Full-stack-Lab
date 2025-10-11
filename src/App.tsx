@@ -4,7 +4,7 @@ import { EmployeeList } from "./components/employee-list/EmployeeList";
 import { Footer } from "./components/footer/footer";
 import Header from "./components/header/Header";
 import { Organization } from "./components/organization-list/organization"; 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; // 
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; 
 
 function App() {
   return (
