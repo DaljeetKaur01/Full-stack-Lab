@@ -1,5 +1,7 @@
 import { useState } from "react";
 import leadershipJson from "../../data/leadership.json";
+import "./organization.css";
+
 
 export function Organization() {
   const roles = Object.entries(leadershipJson.leadership).map(([key, info]: any) => ({
