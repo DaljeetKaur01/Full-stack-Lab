@@ -10,6 +10,9 @@ export function Nav() {
         <span>
           <Link to="/organization">Organization</Link>
         </span>
+        <span>
+          <Link to="/EmployeeForm">EmployeeForm</Link>
+        </span>
       </div>
     </nav>
   );

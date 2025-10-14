@@ -48,6 +48,12 @@
   margin-bottom: 5px;
 }
 
+.role-description {
+  color: #424242;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
 @keyframes expand {
   from {
     opacity: 0;
